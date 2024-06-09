@@ -49,7 +49,7 @@
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, <a href="https://github.com/Keithkeizzah/KEITH-MD/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
+1, <a href="https://github.com/Keithkeizzah/KEITH-MD-/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
 2, TAP ON KEITH TECH APP DOWN THERE
 
