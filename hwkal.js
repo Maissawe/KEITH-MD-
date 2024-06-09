@@ -20,13 +20,13 @@ const chalk = require('chalk')
 
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = ' _𝐊𝐞𝐢𝐭𝐡𝐤𝐞𝐢𝐳𝐳𝐚𝐡_' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254796283064'] // ubah aja pake nomor lu
+global.owner = ['254748387615'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = '𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧' // ubah aja ini nama sticker
-global.author = '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁' // ubah aja ini nama sticker
+global.botname = '𝐊𝐄𝐈𝐓𝐇-𝐌𝐃 𝐁𝐔𝐆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = ' _𝐊𝐞𝐢𝐭𝐡𝐤𝐞𝐢𝐳𝐳𝐚𝐡_' // ubah aja ini nama sticker
+global.author = ' _𝐊𝐞𝐢𝐭𝐡𝐤𝐞𝐢𝐳𝐳𝐚𝐡_' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'classicsession' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
